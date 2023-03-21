@@ -1,0 +1,1 @@
+This is a hobby project. I'm writing map-reduce in golang to get familiar with different aspects of distributed computing 
